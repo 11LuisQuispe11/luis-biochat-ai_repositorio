@@ -1,0 +1,231 @@
+text,intent
+"¿Quién es Luis Quispe Inquil?",biografia
+"¿Quién es Luis?",biografia
+"Háblame de Luis",biografia
+"Cuéntame sobre Luis",biografia
+"Resume el perfil de Luis",biografia
+"¿Cuál es el perfil profesional de Luis?",biografia
+"¿A qué se dedica Luis?",biografia
+"¿Cuál es la experiencia de Luis?",experiencia_general
+"¿Dónde ha trabajado Luis?",experiencia_general
+"¿Qué experiencia profesional tiene Luis?",experiencia_general
+"Háblame de la experiencia laboral de Luis",experiencia_general
+"¿Luis tiene experiencia en datos?",experiencia_datos
+"¿Qué sabe Luis de ciencia de datos?",experiencia_datos
+"¿Luis es científico de datos?",experiencia_datos
+"¿Luis sabe trabajar con datos?",experiencia_datos
+"¿Qué experiencia tiene Luis en ingeniería de datos?",experiencia_datos
+"¿Luis ha trabajado con modelos predictivos?",experiencia_datos
+"¿Luis ha trabajado en banca?",experiencia_banca
+"¿Tiene experiencia en el sector financiero?",experiencia_banca
+"¿Qué experiencia tiene Luis en bancos?",experiencia_banca
+"¿Luis trabajó en BanBif?",experiencia_banca
+"¿Luis conoce procesos bancarios?",experiencia_banca
+"¿Luis tiene experiencia en minería?",experiencia_mineria
+"¿Ha trabajado en proyectos mineros?",experiencia_mineria
+"¿Qué sabe Luis de minería?",experiencia_mineria
+"¿Luis ha trabajado con datos de minería?",experiencia_mineria
+"¿Qué proyectos mineros ha desarrollado Luis?",experiencia_mineria
+"¿Qué tecnologías domina Luis?",habilidades
+"¿Qué herramientas maneja Luis?",habilidades
+"¿Qué skills tiene Luis?",habilidades
+"¿Luis sabe Python?",habilidades_python
+"¿Qué experiencia tiene Luis con Python?",habilidades_python
+"¿Luis programa en Python?",habilidades_python
+"¿Luis sabe SQL?",habilidades_sql
+"¿Qué experiencia tiene Luis con SQL?",habilidades_sql
+"¿Luis domina bases de datos?",habilidades_sql
+"¿Luis sabe Power BI?",habilidades_bi
+"¿Qué experiencia tiene Luis con dashboards?",habilidades_bi
+"¿Luis hace reportes?",habilidades_bi
+"¿Luis sabe AWS?",habilidades_cloud
+"¿Luis conoce Azure?",habilidades_cloud
+"¿Qué experiencia tiene Luis en cloud?",habilidades_cloud
+"¿Qué proyectos ha desarrollado Luis?",proyectos
+"Muéstrame proyectos de Luis",proyectos
+"¿Cuáles son los proyectos más importantes de Luis?",proyectos
+"¿Luis ha hecho proyectos de automatización?",proyectos_automatizacion
+"¿Luis automatiza procesos?",proyectos_automatizacion
+"¿Qué automatizaciones ha hecho Luis?",proyectos_automatizacion
+"¿Qué estudió Luis?",educacion
+"¿Cuál es la formación académica de Luis?",educacion
+"¿Luis tiene estudios universitarios?",educacion
+"¿Por qué contratar a Luis?",propuesta_valor
+"¿Cuál es la propuesta de valor de Luis?",propuesta_valor
+"¿Qué diferencia a Luis de otros candidatos?",propuesta_valor
+"¿Qué valor puede aportar Luis a una empresa?",propuesta_valor
+"¿Cómo puedo contactar a Luis?",contacto
+"¿Cuál es el correo de Luis?",contacto
+"¿Dónde puedo ver el CV de Luis?",contacto
+"¿Luis tiene certificaciones?",certificaciones
+"¿Qué certificaciones tiene Luis?",certificaciones
+"¿Luis está estudiando certificaciones?",certificaciones
+"¿Luis tiene certificaciones cloud?",certificaciones
+"¿Qué cursos o certificaciones está siguiendo Luis?",certificaciones
+"¿Dónde puedo ver el CV de Luis?",cv
+"¿Luis tiene CV disponible?",cv
+"¿Puedo descargar el CV de Luis?",cv
+"¿Dónde está el currículum de Luis?",cv
+"Muéstrame el CV de Luis",cv
+"¿Luis sabe machine learning?",habilidades_machine_learning
+"¿Luis trabaja con inteligencia artificial?",habilidades_machine_learning
+"¿Qué experiencia tiene Luis con IA?",habilidades_machine_learning
+"¿Luis ha entrenado modelos de machine learning?",habilidades_machine_learning
+"¿Luis conoce modelos predictivos?",habilidades_machine_learning
+"¿Cuáles son los objetivos profesionales de Luis?",objetivos_profesionales
+"¿Qué busca Luis profesionalmente?",objetivos_profesionales
+"¿Cuál es la meta profesional de Luis?",objetivos_profesionales
+"¿Hacia dónde quiere crecer Luis?",objetivos_profesionales
+"¿Qué rol profesional busca Luis?",objetivos_profesionales
+"¿Luis es científico de datos?",perfil_data_scientist
+"¿Cuál es el perfil de Luis como data scientist?",perfil_data_scientist
+"¿Qué hace Luis como científico de datos?",perfil_data_scientist
+"¿Luis tiene perfil de data scientist?",perfil_data_scientist
+"¿Por qué Luis se considera científico de datos?",perfil_data_scientist
+"¿Luis es ingeniero de datos?",perfil_data_engineer
+"¿Cuál es el perfil de Luis como data engineer?",perfil_data_engineer
+"¿Luis construye pipelines de datos?",perfil_data_engineer
+"¿Luis trabaja como data engineer?",perfil_data_engineer
+"¿Qué experiencia tiene Luis en ingeniería de datos?",perfil_data_engineer
+"¿Luis ha trabajado con modelos predictivos?",proyectos_modelos_predictivos
+"¿Qué proyectos predictivos tiene Luis?",proyectos_modelos_predictivos
+"¿Luis ha hecho predicción con datos?",proyectos_modelos_predictivos
+"¿Luis ha trabajado con series de tiempo?",proyectos_modelos_predictivos
+"¿Qué modelos predictivos ha desarrollado Luis?",proyectos_modelos_predictivos
+"¿Luis conoce Python?",habilidades_python
+"Luis conoce python?",habilidades_python
+"¿Luis maneja Python?",habilidades_python
+"Luis maneja python?",habilidades_python
+"¿Luis domina Python?",habilidades_python
+"¿Luis trabaja con Python?",habilidades_python
+"¿Luis usa Python?",habilidades_python
+"¿Qué tanto sabe Luis de Python?",habilidades_python
+"¿Qué nivel tiene Luis en Python?",habilidades_python
+"¿Luis programa en Python?",habilidades_python
+"¿Luis hace scripts en Python?",habilidades_python
+"¿Luis automatiza con Python?",habilidades_python
+"¿Luis usa pandas?",habilidades_python
+"¿Luis trabaja con pandas?",habilidades_python
+"¿Luis usa Python para datos?",habilidades_python
+"¿Luis usa Python para automatizar?",habilidades_python
+"¿Luis usa Python para machine learning?",habilidades_python
+"¿Cuánta experiencia tiene Luis?",experiencia_general
+"Cuanta experiencia tiene Luis?",experiencia_general
+"¿Cuántos años de experiencia tiene Luis?",experiencia_general
+"¿Qué experiencia tiene Luis?",experiencia_general
+"¿Cuál es la trayectoria de Luis?",experiencia_general
+"Háblame de la trayectoria de Luis",experiencia_general
+"¿Cuál es el recorrido profesional de Luis?",experiencia_general
+"¿Qué experiencia laboral tiene Luis?",experiencia_general
+"¿En qué ha trabajado Luis?",experiencia_general
+"¿Qué ha hecho Luis profesionalmente?",experiencia_general
+"¿Dónde ha trabajado Luis?",experiencia_general
+"¿Cuál es su experiencia profesional?",experiencia_general
+"¿Qué experiencia tiene?",experiencia_general
+"¿Qué sabe hacer Luis?",habilidades
+"¿Qué herramientas conoce Luis?",habilidades
+"¿Qué herramientas domina Luis?",habilidades
+"¿Cuáles son sus principales habilidades?",habilidades
+"¿Cuáles son las habilidades de Luis?",habilidades
+"¿Qué stack maneja Luis?",habilidades
+"¿Cuál es el stack técnico de Luis?",habilidades
+"¿Luis conoce SQL?",habilidades_sql
+"Luis conoce sql?",habilidades_sql
+"¿Luis maneja SQL?",habilidades_sql
+"¿Luis domina SQL?",habilidades_sql
+"¿Luis trabaja con bases de datos?",habilidades_sql
+"¿Luis hace consultas SQL?",habilidades_sql
+"¿Luis optimiza consultas SQL?",habilidades_sql
+"¿Luis conoce Power BI?",habilidades_bi
+"Luis conoce power bi?",habilidades_bi
+"¿Luis maneja Power BI?",habilidades_bi
+"¿Luis hace dashboards?",habilidades_bi
+"¿Luis crea reportes?",habilidades_bi
+"¿Luis hace tableros?",habilidades_bi
+"¿Luis trabaja con indicadores?",habilidades_bi
+"¿Luis conoce AWS?",habilidades_cloud
+"¿Luis maneja AWS?",habilidades_cloud
+"¿Luis conoce Azure?",habilidades_cloud
+"¿Luis maneja Azure?",habilidades_cloud
+"¿Luis trabaja con cloud?",habilidades_cloud
+"¿Luis sabe de nube?",habilidades_cloud
+"¿Luis tiene experiencia en la nube?",habilidades_cloud
+"¿Luis conoce machine learning?",habilidades_machine_learning
+"¿Luis maneja machine learning?",habilidades_machine_learning
+"¿Luis sabe inteligencia artificial?",habilidades_machine_learning
+"¿Luis conoce IA?",habilidades_machine_learning
+"¿Luis entrena modelos?",habilidades_machine_learning
+"¿Luis trabaja con modelos predictivos?",habilidades_machine_learning
+"¿Luis sabe modelos de clasificación?",habilidades_machine_learning
+"¿Luis sabe modelos de predicción?",habilidades_machine_learning
+"¿Luis ha trabajado en bancos?",experiencia_banca
+"¿Luis conoce banca?",experiencia_banca
+"¿Luis tiene experiencia bancaria?",experiencia_banca
+"¿Luis trabajó en el sector financiero?",experiencia_banca
+"¿Luis conoce riesgo?",experiencia_banca
+"¿Luis conoce cobranzas?",experiencia_banca
+"¿Luis automatizó procesos bancarios?",experiencia_banca
+"¿Luis tiene experiencia en minería?",experiencia_mineria
+"¿Luis conoce minería?",experiencia_mineria
+"¿Luis ha trabajado con datos mineros?",experiencia_mineria
+"¿Luis conoce operaciones mineras?",experiencia_mineria
+"¿Luis trabaja con Las Bambas?",experiencia_mineria
+"¿Luis ha trabajado con fragmentación?",experiencia_mineria
+"¿Luis ha trabajado con variables geometalúrgicas?",experiencia_mineria
+"¿Qué proyectos tiene Luis?",proyectos
+"¿Qué proyectos hizo Luis?",proyectos
+"¿Cuáles son sus proyectos?",proyectos
+"¿Muéstrame sus proyectos?",proyectos
+"¿Qué casos de uso ha desarrollado Luis?",proyectos
+"¿Qué soluciones ha construido Luis?",proyectos
+"¿Luis ha hecho automatizaciones?",proyectos_automatizacion
+"¿Luis automatiza procesos?",proyectos_automatizacion
+"¿Luis ha automatizado reportes?",proyectos_automatizacion
+"¿Luis ha automatizado archivos?",proyectos_automatizacion
+"¿Luis ha reducido trabajo manual?",proyectos_automatizacion
+"¿Qué proyectos predictivos tiene Luis?",proyectos_modelos_predictivos
+"¿Luis ha hecho modelos predictivos?",proyectos_modelos_predictivos
+"¿Luis ha hecho predicción?",proyectos_modelos_predictivos
+"¿Luis trabaja con series de tiempo?",proyectos_modelos_predictivos
+"¿Luis ha desarrollado modelos de machine learning?",proyectos_modelos_predictivos
+"¿Luis es data scientist?",perfil_data_scientist
+"¿Luis es científico de datos?",perfil_data_scientist
+"¿Luis tiene perfil de científico de datos?",perfil_data_scientist
+"¿Cuál es su perfil como data scientist?",perfil_data_scientist
+"¿Qué hace Luis como científico de datos?",perfil_data_scientist
+"¿Luis es data engineer?",perfil_data_engineer
+"¿Luis es ingeniero de datos?",perfil_data_engineer
+"¿Luis tiene perfil de data engineer?",perfil_data_engineer
+"¿Luis construye pipelines?",perfil_data_engineer
+"¿Luis trabaja con ETL?",perfil_data_engineer
+"¿Qué estudió Luis?",educacion
+"¿Cuál es la formación de Luis?",educacion
+"¿Cuál es su educación?",educacion
+"¿Luis tiene formación en datos?",educacion
+"¿Luis estudió tecnología?",educacion
+"¿Luis tiene certificaciones?",certificaciones
+"¿Luis está certificado?",certificaciones
+"¿Qué certificaciones tiene Luis?",certificaciones
+"¿Luis estudia certificaciones cloud?",certificaciones
+"¿Luis se está preparando en AWS?",certificaciones
+"¿Por qué contratar a Luis?",propuesta_valor
+"¿Por qué elegir a Luis?",propuesta_valor
+"¿Qué valor aporta Luis?",propuesta_valor
+"¿Qué puede aportar Luis a una empresa?",propuesta_valor
+"¿Cuál es el diferencial de Luis?",propuesta_valor
+"¿Cuál es la ventaja de contratar a Luis?",propuesta_valor
+"¿Cuáles son los objetivos de Luis?",objetivos_profesionales
+"¿Qué busca Luis profesionalmente?",objetivos_profesionales
+"¿Cuál es la meta profesional de Luis?",objetivos_profesionales
+"¿Hacia dónde quiere crecer Luis?",objetivos_profesionales
+"¿Qué rol quiere Luis?",objetivos_profesionales
+"¿Cómo contacto a Luis?",contacto
+"¿Cómo puedo contactar a Luis?",contacto
+"¿Dónde encuentro a Luis?",contacto
+"¿Luis tiene LinkedIn?",contacto
+"¿Cuál es el contacto de Luis?",contacto
+"¿Dónde veo el CV de Luis?",cv
+"¿Luis tiene CV?",cv
+"¿Dónde descargo el CV de Luis?",cv
+"¿Puedo ver el currículum de Luis?",cv
+"¿Dónde está el currículum de Luis?",cv

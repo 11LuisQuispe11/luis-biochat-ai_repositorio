@@ -1,0 +1,29 @@
+{
+  "accuracy": 0.9521739130434783,
+  "total_samples": 230,
+  "total_classes": 22,
+  "classes": [
+    "biografia",
+    "certificaciones",
+    "contacto",
+    "cv",
+    "educacion",
+    "experiencia_banca",
+    "experiencia_datos",
+    "experiencia_general",
+    "experiencia_mineria",
+    "habilidades",
+    "habilidades_bi",
+    "habilidades_cloud",
+    "habilidades_machine_learning",
+    "habilidades_python",
+    "habilidades_sql",
+    "objetivos_profesionales",
+    "perfil_data_engineer",
+    "perfil_data_scientist",
+    "propuesta_valor",
+    "proyectos",
+    "proyectos_automatizacion",
+    "proyectos_modelos_predictivos"
+  ]
+}
